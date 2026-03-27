@@ -1,4 +1,4 @@
-# FUTURE_UX_01
+# FUTURE_UI_01
 # Dental Clinic Website Redesign
 
 ## Objective
